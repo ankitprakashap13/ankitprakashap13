@@ -1,3 +1,6 @@
+## 🚀 About Me
+🎓 I am Ankit Prakash, a **Front End Web Developer** (specializing in **React Applications**) and a **Data Science and AIML** Enthusiast (specializing in **Computer Vision** and **Natural Language Processing**). I am also Pursuing my Masters in **Data Science** and will graduate in Nov 2024.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **sketching**, and **e-gaming**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitprakashap13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitprakashap13) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/awol_ic1101) 
